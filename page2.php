@@ -25,8 +25,8 @@
 </head>
 <body>
   <h1>Hello, Anam!</h1>
-  <h2>Belajar PWA</h2>
-  <a href="page2.php">Halaman ke 2</a>
+  <h2>Ini adalah halaman ke 2</h2>
+  <a href="index.php">Halaman ke 1</a>
   
   <!-- Optional JavaScript -->
   <!-- jQuery first, then Popper.js, then Bootstrap JS -->
