@@ -1,0 +1,28 @@
+{
+    "name": "Anam PWA",
+    "short_name": "AnamPWA",
+    "description": "Hanyalah web PWA untuk pembelajaran",
+    "lang": "en-US",
+    "dir": "ltr",
+    "theme_color": "#2196f3",
+    "start_url": ".",
+    "background_color": "#212121",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "icons": [{
+      "src": "images/me256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+     }],
+     "shortcuts": [{
+       "name": "Tentang PWA ANAM",
+       "short-name":"Overview",
+       "description": "Hanyalah web PWA untuk pembelajaran",
+       "url": "/",
+       "icons": [{
+         "src": "images/me256.png",
+         "type": "image/png",
+         "purpose": "any maskable"
+       }]
+     }]
+   }
